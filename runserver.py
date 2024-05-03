@@ -5,5 +5,5 @@ app = create_app()
 
 
 if __name__=="__main__":
-    app.run(host="192.168.1.14")
+    #exp: app.run(host="192.168.1.14")
     #app.run()
