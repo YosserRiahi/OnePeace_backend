@@ -23,8 +23,8 @@ class DevConfig(Config):
     MAX_CONTENT_LENGTH=16*1000*100
     MAIL_SERVER=os.getenv("MAIL_SERVER")
     MAIL_PORT=os.getenv("MAIL_PORT")
-    MAIL_USERNAME= "yosser.riahi123@gmail.com"
-    MAIL_PASSWORD= "tffihysmvrunicrm"
+    MAIL_USERNAME= "Your email here"
+    MAIL_PASSWORD= "password"
     MAIL_USE_TLS=False
     MAIL_USE_SSL=True
 
